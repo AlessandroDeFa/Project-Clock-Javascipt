@@ -31,5 +31,9 @@ img {
   top: 51%;
   left: 49.7%;
   font-size: 5rem;
+  padding: 0.5rem 1rem;
   transform: translate(-50%, -50%);
+  border: 1px solid rgba(0, 0, 0, 0.7);
+  box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.7);
+  border-radius: 7px;
 }
